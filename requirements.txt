@@ -1,0 +1,5 @@
+Django==4.2.3
+# Add other project dependencies here if needed
+celery==5.2.1
+requests==2.31.0
+
